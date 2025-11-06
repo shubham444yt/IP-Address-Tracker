@@ -1,0 +1,15 @@
+| IP Address          | Organization / Description   |
+| ------------------- | ---------------------------- |
+| **8.8.8.8**         | Google DNS                   |
+| **8.8.4.4**         | Google DNS (secondary)       |
+| **1.1.1.1**         | Cloudflare DNS               |
+| **1.0.0.1**         | Cloudflare DNS (secondary)   |
+| **9.9.9.9**         | Quad9 DNS (security-focused) |
+| **4.2.2.2**         | Level 3 Communications       |
+| **208.67.222.222**  | OpenDNS (Cisco)              |
+| **208.67.220.220**  | OpenDNS (Cisco)              |
+| **114.114.114.114** | Public DNS (China)           |
+| **64.6.64.6**       | Verisign Public DNS          |
+| **139.130.4.5**     | Telstra (Australia)          |
+| **8.26.56.26**      | Comodo Secure DNS            |
+| **8.20.247.20**     | Comodo Secure DNS            |

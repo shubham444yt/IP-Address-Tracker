@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">IP Tracker</string>
+    <string name="title_activity_main">IP Tracker</string>
+    <string name="package_name">com.iptrack.app</string>
+    <string name="custom_url_scheme">com.iptrack.app</string>
+</resources>
