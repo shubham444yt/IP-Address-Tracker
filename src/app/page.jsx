@@ -253,7 +253,7 @@ export default function HomePage() {
   </div>
 </div>
 
-        {/* Results Section */}
+        {/* Results Section Done*/}
         {info && (
           <div className="w-full max-w-6xl animate-slide-up">
             <div className="border-2 border-green-500 rounded-lg p-6 bg-black/80 backdrop-blur-sm shadow-2xl shadow-green-500/20 mb-6">
